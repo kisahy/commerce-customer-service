@@ -1,7 +1,7 @@
-package com.kisahy.commerce.customer.service;
+package com.kisahy.commerce.service.customer.service;
 
-import com.kisahy.commerce.customer.domain.Customer;
-import com.kisahy.commerce.customer.repository.CustomerRepository;
+import com.kisahy.commerce.service.customer.domain.Customer;
+import com.kisahy.commerce.service.customer.repository.CustomerRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;

@@ -1,7 +1,7 @@
-package com.kisahy.commerce.customer.controller;
+package com.kisahy.commerce.service.customer.controller;
 
-import com.kisahy.commerce.customer.domain.Customer;
-import com.kisahy.commerce.customer.service.CustomerService;
+import com.kisahy.commerce.service.customer.domain.Customer;
+import com.kisahy.commerce.service.customer.service.CustomerService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.webmvc.test.autoconfigure.WebMvcTest;

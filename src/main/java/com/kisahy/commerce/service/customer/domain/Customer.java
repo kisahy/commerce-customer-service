@@ -1,4 +1,4 @@
-package com.kisahy.commerce.customer.domain;
+package com.kisahy.commerce.service.customer.domain;
 
 import jakarta.persistence.*;
 

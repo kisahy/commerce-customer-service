@@ -1,6 +1,6 @@
-package com.kisahy.commerce.customer.repository;
+package com.kisahy.commerce.service.customer.repository;
 
-import com.kisahy.commerce.customer.domain.Customer;
+import com.kisahy.commerce.service.customer.domain.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

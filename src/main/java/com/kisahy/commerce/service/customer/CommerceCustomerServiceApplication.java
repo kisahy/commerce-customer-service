@@ -1,4 +1,4 @@
-package com.kisahy.commerce.customer;
+package com.kisahy.commerce.service.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

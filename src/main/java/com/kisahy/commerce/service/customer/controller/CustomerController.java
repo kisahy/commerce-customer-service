@@ -1,7 +1,7 @@
-package com.kisahy.commerce.customer.controller;
+package com.kisahy.commerce.service.customer.controller;
 
-import com.kisahy.commerce.customer.domain.Customer;
-import com.kisahy.commerce.customer.service.CustomerService;
+import com.kisahy.commerce.service.customer.domain.Customer;
+import com.kisahy.commerce.service.customer.service.CustomerService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
